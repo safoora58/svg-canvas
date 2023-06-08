@@ -1,0 +1,18 @@
+canvas{
+    margin-top: 10px;
+   margin-right: 40%;
+}
+
+.line{
+    background-color: rgba(140, 165, 101, 0.733);
+}
+
+h1{
+    font-size:3rem;
+    font-weight: bold;
+    margin-right: 50%;
+    margin-bottom: 20px;
+}
+svg{
+margin-right: 30px;
+}
